@@ -3,7 +3,7 @@ import java.util.regex.Pattern;
 
 public class App {
     public static void main(String[] args) throws Exception {
-         runEjemplo1();
+        // runEjemplo1();
         // runEjemplo2();
         runEjemplo3();
     }
